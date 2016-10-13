@@ -1,0 +1,23 @@
+{
+  "name": "bower-test-package",
+  "authors": [
+    "Shrikant Sonone <shrikant.sonone@coda.global>"
+  ],
+  "description": "This is a test package for bower repository",
+  "main": "app.js",
+  "keywords": [
+    "bower",
+    "test",
+    "coda"
+  ],
+  "license": "MIT",
+  "homepage": "www.coda.global",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
