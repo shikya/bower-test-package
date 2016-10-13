@@ -1,7 +1,7 @@
 {
 	"registry" : {
 	"search" : [ "http://192.168.99.100:8081/repository/bower-all" ],
-		"register" : "http://192.168.99.100:8081/repository/bower-internal"
+		"register" : "http://admin:admin123@192.168.99.100:8081/repository/bower-internal"
 	},
 	"resolvers" : [ "bower-nexus3-resolver" ],
 	"nexus" : {
